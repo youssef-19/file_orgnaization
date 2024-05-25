@@ -1,0 +1,24 @@
+C:\Users\Tony George\source\repos\lab 1\lab 1\bin\Debug\lab 1.exe.config
+C:\Users\Tony George\source\repos\lab 1\lab 1\bin\Debug\lab 1.exe
+C:\Users\Tony George\source\repos\lab 1\lab 1\bin\Debug\lab 1.pdb
+C:\Users\Tony George\source\repos\lab 1\lab 1\obj\Debug\lab 1.csprojAssemblyReference.cache
+C:\Users\Tony George\source\repos\lab 1\lab 1\obj\Debug\lab_1.Form1.resources
+C:\Users\Tony George\source\repos\lab 1\lab 1\obj\Debug\lab_1.Properties.Resources.resources
+C:\Users\Tony George\source\repos\lab 1\lab 1\obj\Debug\lab 1.csproj.GenerateResource.cache
+C:\Users\Tony George\source\repos\lab 1\lab 1\obj\Debug\lab 1.exe
+C:\Users\Tony George\source\repos\lab 1\lab 1\obj\Debug\lab 1.pdb
+C:\Users\Tony George\source\repos\lab 1\lab 1\obj\Debug\lab_1.Form2.resources
+C:\Users\Tony George\source\repos\lab 1\lab 1\obj\Debug\lab_1.Form3.resources
+D:\Modern Academy\3CS\Semester 2\File Organization\Lab\Project Final\lab 1\bin\Debug\lab 1.exe.config
+D:\Modern Academy\3CS\Semester 2\File Organization\Lab\Project Final\lab 1\bin\Debug\lab 1.exe
+D:\Modern Academy\3CS\Semester 2\File Organization\Lab\Project Final\lab 1\bin\Debug\lab 1.pdb
+D:\Modern Academy\3CS\Semester 2\File Organization\Lab\Project Final\lab 1\obj\Debug\lab 1.csprojAssemblyReference.cache
+D:\Modern Academy\3CS\Semester 2\File Organization\Lab\Project Final\lab 1\obj\Debug\lab_1.Properties.Resources.resources
+D:\Modern Academy\3CS\Semester 2\File Organization\Lab\Project Final\lab 1\obj\Debug\lab 1.csproj.GenerateResource.cache
+D:\Modern Academy\3CS\Semester 2\File Organization\Lab\Project Final\lab 1\obj\Debug\lab 1.csproj.CoreCompileInputs.cache
+D:\Modern Academy\3CS\Semester 2\File Organization\Lab\Project Final\lab 1\obj\Debug\lab 1.exe
+D:\Modern Academy\3CS\Semester 2\File Organization\Lab\Project Final\lab 1\obj\Debug\lab 1.pdb
+D:\Modern Academy\3CS\Semester 2\File Organization\Lab\Project Final\lab 1\obj\Debug\lab_1.Create.resources
+D:\Modern Academy\3CS\Semester 2\File Organization\Lab\Project Final\lab 1\obj\Debug\lab_1.main.resources
+D:\Modern Academy\3CS\Semester 2\File Organization\Lab\Project Final\lab 1\obj\Debug\lab_1.insert.resources
+D:\Modern Academy\3CS\Semester 2\File Organization\Lab\Project Final\lab 1\obj\Debug\lab_1.SearchForm.resources
